@@ -1,0 +1,6 @@
+framework module Pods_HW_34_Networking_Part2 {
+  umbrella header "Pods-HW_34_Networking_Part2-umbrella.h"
+
+  export *
+  module * { export * }
+}
